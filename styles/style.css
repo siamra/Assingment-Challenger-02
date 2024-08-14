@@ -1,0 +1,174 @@
+.banner{
+    background-color: black;
+}
+
+.line-1{
+    text-decoration-color: orangered;
+    display: flex;
+    justify-content: space-evenly;
+}
+.a{
+    font-style: italic;
+    color: orangered;
+
+}
+.b{
+    border-radius: 20px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+
+}
+.c{
+    background-color: rgb(218, 94, 49);
+    border-radius: 5px;
+}
+.aa{
+    color: aliceblue;
+    
+}
+.dd{
+    background-color: orangered;
+    border-radius: 10px;
+}
+.ee{
+    border-radius: 10px;
+    background-color: rgb(187, 200, 211);
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 30px;
+}
+.img{
+    height: 100%;
+    
+}
+.ff{
+    justify-content: center;
+    text-align: center;
+}
+.habit{
+    color:white;
+    text-align: center;
+}
+.color{
+    color: grey;
+}
+.part-b{
+    display: flex;
+    justify-content: center;
+}
+.rd{
+    border-radius: 50rem;
+    padding: 10px;
+}
+/* third main part */
+.trd{
+    background-color: darkslategray;
+    max-width: 50rem;
+    margin-left: 14rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.first{
+    margin-left: 5%;
+}
+.wh{
+    color: aliceblue;
+}
+.ff{
+    background-color: orangered;
+    border-radius: 10px;
+    width: 40%;
+}
+.rr{
+    width: 50%;
+    margin-left: 45%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+/* challenges part */
+.food-items{
+    text-align: center;
+}
+/* bmi part */
+.hh{
+    text-align: center;
+}
+.gg{
+    display: flex;
+    background-color: rgb(66, 60, 60);
+    justify-content: space-around;
+}
+.sh{
+    border: 1px solid black;
+}
+.ln-1{
+    display: flex;
+}
+.ln-2{
+    display: flex;
+}
+
+/team/
+.text{
+    background-color: black;
+    text-align: center;
+}
+.container{
+    background-color:rgb(179, 170, 170);
+width: 80%;
+margin-left:8rem;
+margin-top: 1rem;
+ }
+.row-1{
+    
+    display: flex;
+    justify-content: space-around;
+   
+}
+.pa{
+    width: 43%;
+}
+.pb{
+    width: 60%;
+}
+.pc{
+    width: 100%;
+}
+.name{
+    position: relative;
+}
+.pd{
+    width: 60%;
+}
+.pe{
+    width: 90%;
+}
+.pf{
+    width: 50%;
+}
+.row-2{
+    display: flex;
+}
+/* last */
+.last{
+    background-color: rgb(66, 60, 60);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.finish{
+    text-align: center;
+ align-items: center;
+
+
+}
+/* simple media query */
+@media screen and (max-width: 576px) {
+
+}
